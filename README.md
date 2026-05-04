@@ -20,6 +20,9 @@ The database was used to perform the fine-tuning process of the `t5-small-spanis
 
 The experimental evaluation was conducted using BLEU, chrF, and TER metrics, which are widely used in neural machine translation. The best configuration achieved a BLEU score of 23.95 and a chrF score of 68.64, demonstrating that the proposed database significantly improves the performance of neural models applied to low-resource indigenous languages.
 
+<img width="800" height="400" alt="results" src="https://github.com/user-attachments/assets/1924f5e8-617f-4079-9874-afa19bc02782" />
+
+
 ## Authors
 
 * Nancy Galicia Cocoletzi
