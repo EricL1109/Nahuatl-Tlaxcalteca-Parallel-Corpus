@@ -1,4 +1,4 @@
-# Spanish–Tlaxcalan Nahuatl Parallel Corpus
+# Spanish–Nahuatl_Tlaxcalteca Parallel Corpus
 
 This repository presents a parallel corpus for Spanish–Tlaxcalan Nahuatl developed for research in Neural Machine Translation (NMT), Natural Language Processing (NLP), and low-resource language technologies.
 
