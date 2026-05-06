@@ -32,7 +32,21 @@ The experimental evaluation was conducted using BLEU, chrF, and TER metrics, whi
 
 ## Citation
 
-Galicia Cocoletzi, N., Ramos Aguilar, E., & Reyes Peña, C. (2025). *Spanish–Tlaxcalan Nahuatl Parallel Corpus for Neural Machine Translation and Low-Resource Language Processing*. Zenodo. https://zenodo.org/records/19870065
+If you use this dataset in academic research, please cite:
+
+```bibtex
+@conferencepaper{galicia2026traductor,
+  author       = {Nancy Galicia Cocoletzi and
+                  Eric Ramos Aguilar and
+                  Cecilia Reyes Peña},
+  title        = {Traductor Digital de Español a Náhuatl Tlaxcalteca Utilizando Técnicas de Procesamiento de Lenguaje Natural},
+  year         = {2026},
+  month        = apr,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19870065},
+  url          = {https://doi.org/10.5281/zenodo.19870065}
+}
+```
 
 ## License
 
