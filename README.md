@@ -31,6 +31,12 @@ The experimental evaluation was conducted using BLEU, chrF, and TER metrics, whi
 * Cecilia Reyes-Peña
 * Ricardo Ramos-Aguilar
 
+## Associated Paper
+
+Traductor Digital de Español a Náhuatl Tlaxcalteca Utilizando Técnicas de Procesamiento de Lenguaje Natural
+
+https://zenodo.org/records/19870065
+
 ## Citation
 
 If you use this dataset in academic research, please cite:
